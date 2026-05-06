@@ -1,19 +1,30 @@
 //color
 $placeholder-color : #ccc;
-$a-link : #2094c4;
-$a-hover : #3498db;
-
+$a-link : #818cf8;
+$a-hover : #a5b4fc;
 
 //loading-circle
 $loading-width : 100px;
 $loading-height : 100px;
 $loading-border-width : 10px;
 
-//colors
-$bd-green: rgb(39,174,96);
-$bd-blue:  rgb(41,128,185);
-$bd-orange: rgb(211,84,0);
-$bd-red: rgb(192,57,43);
+//colors (loading spinner)
+$bd-green: rgb(52,211,153);
+$bd-blue:  rgb(99,102,241);
+$bd-orange: rgb(251,146,60);
+$bd-red: rgb(244,63,94);
+
+// section background colors
+$color-works-bg-start: #0d1b2a;
+$color-works-bg-end: #1a2f45;
+$color-skill-bg-start: #0a1628;
+$color-skill-bg-end: #162032;
+$color-contact-bg-start: #111827;
+$color-contact-bg-end: #1e293b;
+
+// accent
+$accent: #6366f1;
+$accent-light: #818cf8;
 
 //other
-$body-fontfamily : 'helvetica neue',tahoma,'hiragino sans gb',stheiti,'wenquanyi micro hei',\5FAE\8F6F\96C5\9ED1,\5B8B\4F53,sans-serif;
+$body-fontfamily : 'Inter','helvetica neue',tahoma,'hiragino sans gb',stheiti,'wenquanyi micro hei',\5FAE\8F6F\96C5\9ED1,\5B8B\4F53,sans-serif;
